@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L5sSAtXesaT7CN+7Q1owZwfcTJEqfjwi+rCwUC0duipgi87naiingJ7x4IIRpCMbm5L7hqN6gaRVGD2nkRGWvA==",
+  "dgSpecHash": "qe5Hx2uWsZuCa9+GIfBkNulsGNfM7NnkVOGo2EDT4nkN5aPcddQfZfOH/1cNaplF9OctKb1EyG762aIlAeNxug==",
   "success": true,
-  "projectFilePath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
+  "projectFilePath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

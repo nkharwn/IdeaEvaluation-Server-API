@@ -1315,11 +1315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
+      "projectUniqueName": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
       "projectName": "IdeaEvaluation.Api",
-      "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
+      "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Api\\obj\\",
+      "outputPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1333,14 +1333,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
-              "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj"
+            "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
+              "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj"
             },
-            "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
-              "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj"
+            "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
+              "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj"
             },
-            "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj": {
-              "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj"
+            "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj": {
+              "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hXw75bDE6fNI8nD6/3awu/y4Wo2lJWkdm3uFAGxOLXa3es400xvqQkoRuYo7dkeoMzGs5lpurJkNo1Oxf9YoAQ==",
+  "dgSpecHash": "FI49/ZnutlB/8wdjTyIhXcfIIPpDBKcbAPalaqaSZFCWMXIf2dzcj3VVRZrytqiJH3YupPO//1OQJvWMNRIh5A==",
   "success": true,
-  "projectFilePath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
+  "projectFilePath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.8\\microsoft.aspnetcore.jsonpatch.3.1.8.nupkg.sha512",
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.8\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.8.nupkg.sha512",

@@ -1192,11 +1192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
+      "projectUniqueName": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
       "projectName": "IdeaEvaluation.DataAccess",
-      "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
+      "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\obj\\",
+      "outputPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"

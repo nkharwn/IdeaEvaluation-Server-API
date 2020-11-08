@@ -1122,11 +1122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj",
+      "projectUniqueName": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj",
       "projectName": "IdeaEvaluation.Service",
-      "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj",
+      "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\obj\\",
+      "outputPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1140,11 +1140,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
-              "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj"
+            "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
+              "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj"
             },
-            "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
-              "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj"
+            "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
+              "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj": {}
+    "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj": {}
   },
   "projects": {
-    "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj": {
+    "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
+        "projectUniqueName": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
         "projectName": "IdeaEvaluation.Api",
-        "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
+        "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Api\\IdeaEvaluation.Api.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Api\\obj\\",
+        "outputPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,14 +25,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
-                "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj"
+              "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
+                "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj"
               },
-              "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
-                "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj"
+              "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
+                "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj"
               },
-              "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj": {
-                "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj"
+              "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj": {
+                "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
+    "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
+        "projectUniqueName": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
         "projectName": "IdeaEvaluation.DataAccess",
-        "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
+        "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\obj\\",
+        "outputPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
+    "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj",
+        "projectUniqueName": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj",
         "projectName": "IdeaEvaluation.Model",
-        "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj",
+        "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\obj\\",
+        "outputPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj": {
+    "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj",
+        "projectUniqueName": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj",
         "projectName": "IdeaEvaluation.Service",
-        "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj",
+        "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\IdeaEvaluation.Service.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Service\\obj\\",
+        "outputPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -226,11 +226,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
-                "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj"
+              "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj": {
+                "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.DataAccess\\IdeaEvaluation.DataAccess.csproj"
               },
-              "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
-                "projectPath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj"
+              "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj": {
+                "projectPath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj"
               }
             }
           }

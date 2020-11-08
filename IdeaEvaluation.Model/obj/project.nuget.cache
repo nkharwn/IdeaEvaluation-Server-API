@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SBxQwQyqfKK3bgmwlTLGzO3z9dS7W0uavn2V86j8pI6CewIlL8eza5NCQuwmG1WF0KF2AfWmGhRHIWffr7yb/Q==",
+  "dgSpecHash": "AGnMV+d9ZLLYbE1yxC7tSj5AGYXXp3lynC/g29el603bMoKFKyoGlJHRXgr7ewyzzTgCjW5J/2zeoLiHY3dm3Q==",
   "success": true,
-  "projectFilePath": "C:\\Assignments\\IdeaEvaluation_Server\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj",
+  "projectFilePath": "C:\\source\\IdeaEvaluation-Server-API\\IdeaEvaluation.Model\\IdeaEvaluation.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sam\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Sam\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
