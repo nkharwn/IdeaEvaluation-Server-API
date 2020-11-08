@@ -1,0 +1,14 @@
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\bin\Debug\netcoreapp3.1\IdeaEvaluation.Service.deps.json
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\bin\Debug\netcoreapp3.1\IdeaEvaluation.Service.dll
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\bin\Debug\netcoreapp3.1\IdeaEvaluation.Service.pdb
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\bin\Debug\netcoreapp3.1\IdeaEvaluation.DataAccess.dll
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\bin\Debug\netcoreapp3.1\IdeaEvaluation.Model.dll
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\bin\Debug\netcoreapp3.1\IdeaEvaluation.DataAccess.pdb
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\bin\Debug\netcoreapp3.1\IdeaEvaluation.Model.pdb
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\obj\Debug\netcoreapp3.1\IdeaEvaluation.Service.csprojAssemblyReference.cache
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\obj\Debug\netcoreapp3.1\IdeaEvaluation.Service.AssemblyInfoInputs.cache
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\obj\Debug\netcoreapp3.1\IdeaEvaluation.Service.AssemblyInfo.cs
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\obj\Debug\netcoreapp3.1\IdeaEvaluation.Service.csproj.CoreCompileInputs.cache
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\obj\Debug\netcoreapp3.1\IdeaEvaluation.Service.csproj.CopyComplete
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\obj\Debug\netcoreapp3.1\IdeaEvaluation.Service.dll
+C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Service\obj\Debug\netcoreapp3.1\IdeaEvaluation.Service.pdb

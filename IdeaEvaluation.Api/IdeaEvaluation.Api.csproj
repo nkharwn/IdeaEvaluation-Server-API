@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\IdeaEvaluation.Model\IdeaEvaluation.Model.csproj" />
+    <ProjectReference Include="..\IdeaEvaluation.DataAccess\IdeaEvaluation.DataAccess.csproj" />
+    <ProjectReference Include="..\IdeaEvaluation.Service\IdeaEvaluation.Service.csproj" />
+  
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.9" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>
