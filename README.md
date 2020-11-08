@@ -20,4 +20,9 @@
 * Calculate total number of ideas that need to be evaluated based evaluted count which is less than or equal to 3 based on IdeaEvaluationHistory table .
 * Then Calculate available users (Evaluators).
 * Equally divide ideas amongst evaluators and make sure that same evaluated idea is not assigned again to the same evaluator.
+##### Scenarios covered
+* 1. If new idea added at runtime it will be randomly assigned to any user
+* 2. If user evaluate any Idea he can not evaluate again same idea.
+* 3. Handled case in which no idea is left for evaluation.
+
 
