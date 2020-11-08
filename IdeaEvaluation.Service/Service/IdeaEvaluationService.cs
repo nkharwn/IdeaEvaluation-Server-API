@@ -31,16 +31,18 @@ namespace IdeaEvaluation.Service
         {
             int evaluationCount = 3;
             List<IdeaModel> ideaList = new List<IdeaModel>();
-            var totalIdeas = await _ideaRepository.GetListAsync();
-            var totalUsers = await _userRepository.GetListAsync();
+            var totalIdeas = (await _ideaRepository.GetListAsync()).Count();
+            var totalUsers = (await _userRepository.GetListAsync()).Count();
+            var availableIdeaList=await _ideaRepository.GetListAsync(predicate: p => p.IdeaEvaluationHistory.Count() < evaluationCount
+             && p.IdeaEvaluationHistory.Where(history => history.UserId == userId).Count() <= 0);
             var usersEvaluatedIdeas = await _ideaRepository.GetListAsync(predicate: p => p.IdeaEvaluationHistory.Where(history => history.UserId == userId).Count() > 0);
-            if (totalIdeas != null && totalIdeas.Count() > 0 && totalUsers != null && totalUsers.Count() > 0)
+            if (totalIdeas > 0 && totalUsers > 0)
             {
-                int totalEvaluations = totalIdeas.Count() * evaluationCount;
-                int maxSize = (int)Math.Ceiling(totalEvaluations / (double)totalUsers.Count());
-                if (maxSize > 0 && totalIdeas.Count() >= maxSize)
+                int totalEvaluations = totalIdeas * evaluationCount;
+                int maxSize = (int)Math.Ceiling(totalEvaluations / (double)totalUsers);
+                if (maxSize > 0 && totalIdeas >= maxSize)
                 {
-                    ideaList = totalIdeas.Select(idea => new IdeaModel
+                    ideaList = availableIdeaList.Select(idea => new IdeaModel
                     {
                         IdeaId = (int)idea.IdeaId,
                         IdeaName = idea.IdeaName,
