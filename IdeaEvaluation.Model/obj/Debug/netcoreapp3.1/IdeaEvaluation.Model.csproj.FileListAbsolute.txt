@@ -1,9 +1,0 @@
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Model\bin\Debug\netcoreapp3.1\IdeaEvaluation.Model.deps.json
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Model\bin\Debug\netcoreapp3.1\IdeaEvaluation.Model.dll
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Model\bin\Debug\netcoreapp3.1\IdeaEvaluation.Model.pdb
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Model\obj\Debug\netcoreapp3.1\IdeaEvaluation.Model.csprojAssemblyReference.cache
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Model\obj\Debug\netcoreapp3.1\IdeaEvaluation.Model.AssemblyInfoInputs.cache
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Model\obj\Debug\netcoreapp3.1\IdeaEvaluation.Model.AssemblyInfo.cs
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Model\obj\Debug\netcoreapp3.1\IdeaEvaluation.Model.csproj.CoreCompileInputs.cache
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Model\obj\Debug\netcoreapp3.1\IdeaEvaluation.Model.dll
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.Model\obj\Debug\netcoreapp3.1\IdeaEvaluation.Model.pdb

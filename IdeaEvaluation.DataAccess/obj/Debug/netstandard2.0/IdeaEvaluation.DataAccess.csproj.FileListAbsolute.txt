@@ -1,9 +1,0 @@
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.DataAccess\bin\Debug\netstandard2.0\IdeaEvaluation.DataAccess.deps.json
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.DataAccess\bin\Debug\netstandard2.0\IdeaEvaluation.DataAccess.dll
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.DataAccess\bin\Debug\netstandard2.0\IdeaEvaluation.DataAccess.pdb
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.DataAccess\obj\Debug\netstandard2.0\IdeaEvaluation.DataAccess.csprojAssemblyReference.cache
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.DataAccess\obj\Debug\netstandard2.0\IdeaEvaluation.DataAccess.AssemblyInfoInputs.cache
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.DataAccess\obj\Debug\netstandard2.0\IdeaEvaluation.DataAccess.AssemblyInfo.cs
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.DataAccess\obj\Debug\netstandard2.0\IdeaEvaluation.DataAccess.csproj.CoreCompileInputs.cache
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.DataAccess\obj\Debug\netstandard2.0\IdeaEvaluation.DataAccess.dll
-C:\Assignments\IdeaEvaluation_Server\IdeaEvaluation.DataAccess\obj\Debug\netstandard2.0\IdeaEvaluation.DataAccess.pdb
