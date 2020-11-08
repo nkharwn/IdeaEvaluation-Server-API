@@ -31,8 +31,7 @@ namespace IdeaEvaluation.Service
         {
             int evaluationCount = 3;
             List<IdeaModel> ideaList = new List<IdeaModel>();
-            var totalIdeas = await _ideaRepository.GetListAsync(predicate: p => p.IdeaEvaluationHistory.Count() < evaluationCount
-             && p.IdeaEvaluationHistory.Where(history => history.UserId == userId).Count() <= 0);
+            var totalIdeas = await _ideaRepository.GetListAsync();
             var totalUsers = await _userRepository.GetListAsync();
             var usersEvaluatedIdeas = await _ideaRepository.GetListAsync(predicate: p => p.IdeaEvaluationHistory.Where(history => history.UserId == userId).Count() > 0);
             if (totalIdeas != null && totalIdeas.Count() > 0 && totalUsers != null && totalUsers.Count() > 0)
